@@ -12,6 +12,10 @@
 ---
 
 ## Projects
+| Name                         | Description       | Tech/tools        | Demo/URL        | Repo/Code        |
+| ---------------------------- | ----------------- | ----------------- | ----------------| -----------------|
+| **Jammming – Spotify Playlist** | Built a connection with Spotify API for users to build and save a playlist | React.js, Spotify API, HTML & CSS | <a href="https://master.d1xfw0olw4wrqg.amplifyapp.com/" text="Link to Website"><p align="center"><img src="https://img.icons8.com/ios-glyphs/30/000000/internet--v1.png"/></p></a> | <p align="center"><a href="https://github.com/xavierloos/jammming" text="Link to code"><p align="center"><img src="https://img.icons8.com/fluent-systems-filled/30/000000/github.png"/></p></a> |
+| **Ravenous – Restaurant Search Engine** | Built a search engine for restaurants with Yelp API | React.js, Yelp API, HTML & CSS | <a href="https://master.d1og6363lgs77x.amplifyapp.com/" text="Link to Website"><p align="center"><img src="https://img.icons8.com/ios-glyphs/30/000000/internet--v1.png"/></p></a> | <p align="center"><a href="https://github.com/xavierloos/ravenous" text="Link to code"><p align="center"><img src="https://img.icons8.com/fluent-systems-filled/30/000000/github.png"/></p></a> |
 
 ## Experience
 **Energy Institute** December 2019 – September 2020 | London, UK
