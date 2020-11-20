@@ -12,13 +12,15 @@
   <a href="#education">:student:Education</a> |  
   <a href="#skills">:speaking_head:Skills</a> |  
   <a href="#hobbies">:weight_lifting:Hobbies</a </p>
-<p>
+</p>
   
 ---
+
 <p align="center">
-
-I completed my technical diploma in ICT at Universidad Tecnológica de la Riviera Maya (Mexico), where I first learned about software development and maintenance. After moving to London in 2017, I started an evening course with Flatiron School in front-end development and my interest in front-end languages and frameworks began to grow.
-
+I completed my technical diploma in ICT at Universidad Tecnológica de la Riviera Maya (Mexico), where I first learned about software development and maintenance. After moving to London in 2017, I started an evening course with Flatiron School in front-end development and my interest in front-end languages and frameworks began to grow. 
+</p>
+  
+<p align="center">
 I enjoy building, developing and maintaining clean, functional code to ensure products look great whilst being accessible and responsive. I'm lucky to love what I do and enjoy learning new technologies in my free-time, too. 
 </p>
 
