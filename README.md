@@ -9,6 +9,8 @@
   <a href="#hobbies">:weight_lifting:Hobbies</a </p>
 <p>
   
+---
+
 ## Projects
 
 ## Experience
@@ -34,7 +36,7 @@
 ## Skills
 
 ## Hobbies
-- :weight_lifting:Weightlifting
-- :running:running
-- :coffee:coffee
-- :man_cook:cooking
+:weight_lifting: Weightlifting <br>
+:running: running <br>
+:coffee: coffee <br>
+:man_cook: cooking <br>
