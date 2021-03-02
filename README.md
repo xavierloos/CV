@@ -1,10 +1,11 @@
-# Javier Lopez Ramos
-<p align="center">
-  <a href="#projects">:open_file_folder:Projects</a> |
-  <a href="#experience">:briefcase:Experience</a> |
-  <a href="#education">:student:Education</a> |
-  <a href="#skills">:speaking_head:Skills</a> |
+<p align="right">
+  <a href="#projects">Projects</a> |
+  <a href="#experience">Experience</a> |
+  <a href="#education">Education</a> |
+  <a href="#skills">Skills</a>
 </p>
+
+# Javier Lopez Ramos
 <p align="center">
 67 Brookfield Crescent, Mill Hill<br>
 London, England NW7 2DE<br>
