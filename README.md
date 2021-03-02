@@ -1,17 +1,15 @@
-<p align="right">
-  <img src="https://img.icons8.com/metro/20/000000/new-post.png"/>
-  <img src="https://img.icons8.com/material-sharp/20/000000/whatsapp.png"/>
-<img src="https://img.icons8.com/ios-filled/20/000000/linkedin-circled.png"/>
-</p>
-
-![](https://placehold.it/950x200/374c53/FFFFFF/?text=Javier+Lopez+Ramos)
-
+# Javier Lopez Ramos
 <p align="center">
-  <a href="#projects">:open_file_folder:Projects</a> | 
+  <a href="#projects">:open_file_folder:Projects</a> |
   <a href="#experience">:briefcase:Experience</a> |
-  <a href="#education">:student:Education</a> |  
-  <a href="#skills">:speaking_head:Skills</a> |  
-  <a href="#hobbies">:weight_lifting:Hobbies</a </p>
+  <a href="#education">:student:Education</a> |
+  <a href="#skills">:speaking_head:Skills</a> |
+</p>
+<p align="center">
+67 Brookfield Crescent, Mill Hill<br>
+London, England NW7 2DE<br>
+07578084984<br>
+<a href="mailto:javierlr.dev@gmail.com">E-mail</a> |  <a href="https://www.linkedin.com/in/xavierloos">LinkedIn</a>
 </p>
   
 ---
@@ -25,35 +23,46 @@ I enjoy building, developing and maintaining clean, functional code to ensure pr
 </p>
 
 ## Projects
-| Name                         | Description       | Tech/tools        | Demo/URL        | Repo/Code        |
-| ---------------------------- | ----------------- | ----------------- | ----------------| -----------------|
-| **Jammming – Spotify Playlist** | Built a connection with Spotify API for users to build and save a playlist | React.js, Spotify API, HTML & CSS | <a href="https://master.d1xfw0olw4wrqg.amplifyapp.com/" text="Link to Website"><p align="center"><img src="https://img.icons8.com/ios-glyphs/30/000000/internet--v1.png"/></p></a> | <p align="center"><a href="https://github.com/xavierloos/jammming" text="Link to code"><p align="center"><img src="https://img.icons8.com/fluent-systems-filled/30/000000/github.png"/></p></a> |
-| **Ravenous – Restaurant Search Engine** | Built a search engine for restaurants with Yelp API | React.js, Yelp API, HTML & CSS | <a href="https://master.d1og6363lgs77x.amplifyapp.com/" text="Link to Website"><p align="center"><img src="https://img.icons8.com/ios-glyphs/30/000000/internet--v1.png"/></p></a> | <p align="center"><a href="https://github.com/xavierloos/ravenous" text="Link to code"><p align="center"><img src="https://img.icons8.com/fluent-systems-filled/30/000000/github.png"/></p></a> |
+| Name                         | Description       | Tech/tools        | Repo/Code        |
+| ---------------------------- | ----------------- |  ----------------| -----------------|
+| **Ride the Duck** | All-in-one travel app | React Navive, Firebase, API | <p align="center"><a href="https://github.com/RideTheDuck/RideTheDuck" text="Link to code"><p align="center"><img src="https://img.icons8.com/fluent-systems-filled/30/000000/github.png"/></p></a> |
+| **Instagram Clone** | Clone of the famouse social app Instagram | Rails, PostgreSQL, Bootstrap | <p align="center"><a href="https://github.com/xavierloos/instagram-challenge" text="Link to code"><p align="center"><img src="https://img.icons8.com/fluent-systems-filled/30/000000/github.png"/></p></a> |
+| **Acebook-JAANIS** | Clone of the famouse social app Facebook | Rails, PostgreSQL, Bootstrap | <p align="center"><a href="https://github.com/Acebook-Jaanis/acebook-JAANIS" text="Link to code"><p align="center"><img src="https://img.icons8.com/fluent-systems-filled/30/000000/github.png"/></p></a> |
 
 ## Experience
-**Energy Institute** December 2019 – September 2020 | London, UK <br>
-*Front End Developer*
-- Developed Barometer 2020 – online version of EI’s annual report using JavaScript & Bootstrap.
-- Knowledge Hub – developed Hydrogen Guide for the information services using jQuery, HTML, CSS.
-- Debugged, updated, and validated code to create responsive pages e.g. Hearts & Minds and Tripod.
-- SEO optimisation and accessibility audits across EI’s online services using Google Lighthouse.
-- Represented Digital Team in company-wide meetings to provide updates on project status.
-- Provided training and support for colleagues working within the online production processes.
-- Provided technical support and responding to stakeholder enquiries.
+### **Energy Institute,** London — *Front-End Developer*
+*DEC 2019 - SEPTEMBER 2020*
+- Developed [Barometer 2020](https://www.energyinst.org/barometer/2020) – online version of EI’s annual report using JavaScript &
+Bootstrap.
+- Knowledge Hub – developed [Hydrogen Guide](https://knowledge.energyinst.org/collections/hydrogen) for the information services using jQuery,
+HTML, CSS.
+- Debugged, updated, validated code to create responsive pages e.g., [Hearts & Minds](https://heartsandminds.energyinst.org/) and
+Tripod.
+- SEO optimisation and accessibility audits across EI’s online services using Google
+Lighthouse.
+- Represented the Digital Team in company meetings to provide updates on project status.
+- Provided training and support for colleagues working within the online production
+processes.
+- Provided technical support for stakeholder enquiries.
 
 ## Education
-#### Makers Academy (November 2020 to February 2021)
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-#### Universidad Tecnológica de la Riviera Maya (September 2011 - September 2013)						        
-- University Advanced Diploma in ICT
+### **Makers Academy,** Remote/London — *Software Engineering Bootcamp*
+*OCT 2020 - FEB 2021* | Full-time intensive bootcamp
+- Test Driven Development (TDD RSpec)
+- Pair programming and Agile practices.
+- Technologies such as JavaScript, Ruby, Rails, React Native, Sinatra, jQuery, HTML, CSS
+- Testing Frameworks: RSpec, Capybara, Jasmine
+- Databases: PostgreSQL
+- Deployment: Heroku, Travis, CircleCI
+- Version Control: Github
+
+### **Universidad Tecnológica de la Riviera Maya,** Mexico — *Computer Systems*
+*September 2011 - September 2014* | University Advanced Diploma in ICT
 
 ## Skills
+**Technical:** HTML, CSS, Bootstrap JavaScript, jQuery, React.js, React Native,
+Bootstrap, GitHub, APIs, Rails, Ruby, RSpec, Capybara, Sinatra, Jasmine, PostgreSQL,CircleCI, TravisCI
 
-## Hobbies
-:weight_lifting: Weightlifting <br>
-:running: running <br>
-:coffee: coffee <br>
-:man_cook: cooking <br>
+**Languages:** Spanish (native), English (fluent)
+
+**Interests:** Weightlifting, running, coffee, cooking
