@@ -1,4 +1,6 @@
 <p align="right">
+  <a href="mailto:javierlr.dev@gmail.com">E-mail</a> |
+  <a href="https://www.linkedin.com/in/xavierloos">LinkedIn</a> |
   <a href="#projects">Projects</a> |
   <a href="#experience">Experience</a> |
   <a href="#education">Education</a> |
@@ -6,11 +8,6 @@
 </p>
 
 # Javier Lopez Ramos
-<p align="center">
-<a href="mailto:javierlr.dev@gmail.com">E-mail</a> |  <a href="https://www.linkedin.com/in/xavierloos">LinkedIn</a>
-</p>
-  
----
 
 <p align="center">
 I completed my technical diploma in ICT at Universidad Tecnológica de la Riviera Maya (Mexico), where I first learned about software development and maintenance. After moving to London in 2017, I started an evening course with Flatiron School in front-end development and my interest in front-end languages and frameworks began to grow. 
