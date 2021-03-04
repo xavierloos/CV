@@ -7,9 +7,6 @@
 
 # Javier Lopez Ramos
 <p align="center">
-67 Brookfield Crescent, Mill Hill<br>
-London, England NW7 2DE<br>
-07578084984<br>
 <a href="mailto:javierlr.dev@gmail.com">E-mail</a> |  <a href="https://www.linkedin.com/in/xavierloos">LinkedIn</a>
 </p>
   
